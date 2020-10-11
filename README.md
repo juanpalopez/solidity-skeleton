@@ -1,2 +1,2 @@
 # smart-contracts
-Smart contracts of the Genie
+Smart contracts of the dev kit
